@@ -11,6 +11,14 @@
 
 * Python: https://www.python.org/downloads/
 
+# Tutorial
+
+* Go to the main.py file and then type your webhook url here
+
+![aasd](https://user-images.githubusercontent.com/92050717/148045017-7ee56e19-4264-4bb4-a99d-123609631949.png)
+
+Then just run the start.bat file and done!
+
 # Tool Working
 
 
